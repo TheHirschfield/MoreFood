@@ -1,0 +1,8 @@
+More Food 1.10.2 Changelog
+---------------------------
+
+Version 0.1 - 19th September 2016
+
+- Added Corn Crops
+- Added Corn Food (Heals 1)
+- Added Corn Seeds

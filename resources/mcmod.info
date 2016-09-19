@@ -1,0 +1,16 @@
+[
+{
+  "modid": "morefood",
+  "name": "More Food",
+  "description": "More Food mod by Bloodtake.",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bloodtake"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
